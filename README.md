@@ -1,6 +1,7 @@
 # devops-aula02
+EDITADOOO!!!!!!!!
+Algust Alshina
+Omarion
+Chris Brown
 
 
-Will Smith
-Dwayne Johnson
-Adam Sandler
